@@ -45,27 +45,25 @@ These scenarios illustrate the intended system behaviour rather than establish c
 
 ### **3. Current development status**
 
-| Component                                      | Status                              |
-| ---------------------------------------------- | ----------------------------------- |
-| System architecture                            | Design completed                    |
-| System flowchart                               | Design completed                    |
-| Three illustrated storyboards                  | Completed                           |
-| 16 user interface designs                      | Completed                           |
-| Structured questionnaire mechanism             | Prototype designed                  |
-| Personalised follow-up questions               | Prototype demonstrated              |
-| AI-generated health summary                    | Simulated output                    |
-| Clinical decision support                      | Interface prototype                 |
-| Chatbot interactions                           | Interface prototype                 |
-| Success and failure recovery                   | Prototype demonstrated              |
-| Automated questionnaire generation             | Requires further development        |
-| Operational LLM and RAG integration            | Proposed; implementation unverified |
-| Diagnostic image and report analysis           | Proposed                            |
-| Backend authentication and data security       | Requires verification               |
-| Medical insurance integration                  | Planned; interface designed         |
-| Emergency healthcare assistance                | Planned; interface designed         |
-| AI-powered robotic information collection      | Future development                  |
-| Four-stage diabetes scenario                   | Unfinished                          |
-| Clinical validation and formal user evaluation | Not yet evidenced                   |
+| Component                                 | Status                              |
+| ----------------------------------------- | ----------------------------------- |
+| System architecture                       | Design completed                    |
+| System flowchart                          | Design completed                    |
+| Three illustrated storyboards             | Completed                           |
+| 16 user interface designs                 | Completed                           |
+| Structured questionnaire mechanism        | Prototype designed                  |
+| Personalised follow-up questions          | Prototype demonstrated              |
+| AI-generated health summary               | Simulated output                    |
+| Clinical decision support                 | Interface prototype                 |
+| Chatbot interactions                      | Interface prototype                 |
+| Success and failure recovery              | Prototype demonstrated              |
+| Automated questionnaire generation        | Requires further development        |
+| Operational LLM and RAG integration       | Proposed; implementation unverified |
+| Diagnostic image and report analysis      | Proposed                            |
+| Backend authentication and data security  | Requires verification               |
+| Medical insurance integration             | Planned; interface designed         |
+| Emergency healthcare assistance           | Planned; interface designed         |
+| AI-powered robotic information collection | Future development                  |
 
 ### **4. Unfinished functionality and future development**
 
