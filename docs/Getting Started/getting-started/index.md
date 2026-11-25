@@ -1,5 +1,6 @@
 ---
 title: Welcome to A2 Project Report -  IIS HCI
+excerpt: 'Assignment 2: Project Report'
 hidden: false
 ---
 <Callout icon="📘" theme="info">
