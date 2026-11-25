@@ -1,6 +1,5 @@
 ---
-title: 'Assignment 2: Project Report'
-excerpt: >-
+title: >-
   A)Project status: What you made, what works or is simulated, and what remains
   unfinished.
 deprecated: false
