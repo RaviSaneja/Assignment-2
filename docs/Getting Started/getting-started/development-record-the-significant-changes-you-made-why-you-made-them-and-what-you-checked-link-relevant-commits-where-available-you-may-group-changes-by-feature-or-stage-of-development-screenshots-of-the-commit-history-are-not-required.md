@@ -1,6 +1,6 @@
 ---
 title: >-
-  Development record: The significant changes you made, why you made them and
+  D)Development record: The significant changes you made, why you made them and
   what you checked. Link relevant commits where available. You may group changes
   by feature or stage of development; screenshots of the commit history are not
   required.
